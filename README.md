@@ -1,4 +1,3 @@
-# Food-Delivery-Analysis
 # Food Delivery Data Analysis  
 ### Innomatics Research Labs – Advanced GenAI Internship (Entrance Test)
 
